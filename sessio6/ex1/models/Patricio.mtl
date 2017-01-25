@@ -1,0 +1,68 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+newmtl Brows_Color.png_Color.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Color.png
+
+
+newmtl Eyes_Color.png_Color.png.002
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Color.png
+
+
+newmtl Mouth_Color.png.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.514510 0.031373 0.119216
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Color.png
+
+
+newmtl Pants_Flowers.png_Flowers.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.561569 0.683922 0.097255
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Flowers.png
+
+
+newmtl Pupils_Color.png_Color.png.003
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Color.png
+
+
+newmtl Skin_skin.png_Skin_Patrick.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.790588 0.426666 0.354510
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Skin_Patrick.png
+
+

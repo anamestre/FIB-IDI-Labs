@@ -1,0 +1,8 @@
+
+RECORDA!!!!
+============
+
+- Si multipliques: 
+model : focus = view*TG*vec4(posFocus, 1.0)
+escena : focus = view*vec4(posFocus, 1.0)
+observador : focus = vec4(posFocus, 1.0)

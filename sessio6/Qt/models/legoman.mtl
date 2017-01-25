@@ -1,0 +1,42 @@
+# Blender MTL File: mesada.blend
+# Material Count: 4
+newmtl GREY_PLSTC
+Ns 96.0
+Ka 0.0 0.0 0.0
+Kd 0.530196 0.530196 0.530196
+Ks 0.5 0.5 0.5
+Ni 1.0
+d 1.0
+illum 2
+
+
+newmtl LEGOFACE
+Ns 96.0
+Ka 0.0 0.0 0.0
+Kd 0.734118 0.740392 0.156863
+Ks 0.5 0.5 0.5
+Ni 1.0
+d 1.0
+illum 2
+
+
+newmtl YELLOW_PLASTIC
+Ns 96.0
+Ka 0.0 0.0 0.0
+Kd 0.64 0.646275 0.116078
+Ks 0.5 0.5 0.5
+Ni 1.0
+d 1.0
+illum 2
+
+
+newmtl RED_PLSTC
+Ns 96.0
+Ka 0.0 0.0 0.0
+Kd 0.724706 0.210196 0.210196
+Ks 0.5 0.5 0.5
+Ni 1.0
+d 1.0
+illum 2
+
+
